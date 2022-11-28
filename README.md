@@ -1,6 +1,9 @@
 # IBM-Project-5276-1658755062
 # SmartFarmer - IoT Enabled Smart Farming Application
 
+Demo Link : https://drive.google.com/file/d/1gCMWTlDmOyfcEq10csHek4iPRkN7_9pN/view?usp=share_link
+
+
 The global agriculture industry contributes USD 2.4 trillion, making the agriculture field as important as any other industry in the world. All around the world, 45 percentage of people are reliant on agriculture for their livelihood an in India almost 60 percentage of the population are involved in agriculture and related activities. The agriculture sector, currently valued at US$ 370 billion, is one of the major sectors in the Indian economy. According to the Economic Survey 2020-21, GDP contribution by the agriculture sector is likely to be 19.9% in 2020-21, increasing from 17.8% recorded in 2019-20. So these facts prove that agriculture is inevitable process as everyone still eats food. <br />
 
 But nowadays agriculture itself has become a tedious task due to climate change , natural calamities, water scarcity etc… These things make agriculture a big challenge and force the farmers to quit. Using technologies would be an solution for making agriculture easier and help the farmers increase their productivity. There are many existing technologies and methods to enhance farming but these are not feasible. But this scenario should change and farmer should become smart and take the help of technology to overcome these challenges. Hence we have come with a solution SmartFarmer an Iot enabled smart farming application which helps the farmer to   monitor the soil and weather conditions and can water the crops remotely.<br />
